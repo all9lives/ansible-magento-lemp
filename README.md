@@ -15,3 +15,6 @@ Then run the playbook, like this:
 The playbooks will configure MySQL, Magento, Nginx, and PHP-FPM. When the run
 is complete, you can hit access server to begin the Magento configuration. 
 
+### Notes
+
+- This set of playbooks was adapted for magento from [ansible/ansible-examples/wordpress-nginx](https://github.com/ansible/ansible-examples/tree/master/wordpress-nginx)
